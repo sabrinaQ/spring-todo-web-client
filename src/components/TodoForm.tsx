@@ -1,7 +1,6 @@
 import React from 'react';
 import {Input, Button, Form, Switch} from 'antd';
 import styles from './styles.module.css'
-import Todo from "../services/Todo";
 import {postTodo} from "../services/todoService";
 
 const layout = {
