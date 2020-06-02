@@ -16,3 +16,8 @@
     margin: 1em 4em;
 }
 
+.dangerDeleteTodo {
+    color: red;
+    font-size: large;
+}
+
